@@ -13,3 +13,6 @@ Frontend:
 Angular
 https://github.com/DarioChiappello/blog-angular
 
+React
+https://github.com/DarioChiappello/blog-react/blob/master/README.md
+
